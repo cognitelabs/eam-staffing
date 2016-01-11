@@ -1,8 +1,13 @@
-About: 
+about: 
  url: '#About'
-Services:
- url: '#Services'
-Work:
- url: '#Work'
-Contact Us:
- url: '#Contact'
+positions:
+ url: '/positions'
+employers:
+ recruiting:
+  url: '/recruiting'
+ prospects:
+  url: '/prospects'
+blog:
+ url: '/blog'
+blog:
+ url: '/contact'
