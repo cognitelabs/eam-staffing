@@ -4,7 +4,9 @@ body {
   background: #d4d4d4 url("../images/background.png");
   text-align: center;
   font-family: sans-serif; }
-
+.greybg{
+  background: #f4f4f4 !important;
+}
 h1 {
   color: rgba(0, 0, 0, .3);
   font-weight: bold;

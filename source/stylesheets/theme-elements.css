@@ -20,7 +20,7 @@ h1 {
 
 h2 {
 	font-size: 2.2em;
-	font-weight: 300;
+	font-weight: 400;
 	line-height: 42px;
 	margin: 0 0 32px 0;
 }
@@ -670,7 +670,7 @@ ul.nav-pills > li.active > a:hover, ul.nav-pills > li.active > a:focus {
 }
 
 .btn-borders.btn-primary:hover, .btn-borders.btn-primary:focus {
-	background-color: #9F0603;
+	background-color: #0F4460;
 	border-color: #CCC !important;
 	color: #FFF;
 }
@@ -2407,7 +2407,7 @@ html.boxed section.video > div:first-child video {
 /* Close */
 .mfp-close,
 .mfp-close-btn-in .mfp-close {
-	font-family: "Open Sans", Arial, sans-serif;
+	font-family: "Josefin Sans", Helvetica, sans-serif;
 	font-weight: 600;
 	font-size: 22px;
 	color: #838383;
@@ -3627,7 +3627,7 @@ hr.pattern.pattern-2:after, .divider.pattern.pattern-2:after {
 	border: 0;
 	background: #666;
 	color: #FFF;
-	font-family: "Open Sans", Arial, sans-serif;
+	font-family: "Josefin Sans", Arial, sans-serif;
 	font-size: 600;
 	box-shadow: none;
 	width: 100%;
@@ -5211,7 +5211,7 @@ section.timeline .timeline-box .owl-carousel {
 
 .testimonial.testimonial-style-3 blockquote p {
 	color: #777;
-	font-family: "Open Sans", Arial, sans-serif;
+	font-family: "Josefin Sans", Arial, sans-serif;
 	font-size: 1em;
 	font-style: normal;
 }
@@ -5256,7 +5256,7 @@ section.timeline .timeline-box .owl-carousel {
 
 .testimonial.testimonial-style-4 blockquote p {
 	color: #777;
-	font-family: "Open Sans", Arial, sans-serif;
+	font-family: "Josefin Sans", Arial, sans-serif;
 	font-size: 1em;
 	font-style: normal;
 }
@@ -5292,7 +5292,7 @@ section.timeline .timeline-box .owl-carousel {
 
 .testimonial.testimonial-style-5 blockquote p {
 	color: #777;
-	font-family: "Open Sans", Arial, sans-serif;
+	font-family: "Josefin Sans", Arial, sans-serif;
 	font-size: 1.2em;
 	font-style: normal;
 }
