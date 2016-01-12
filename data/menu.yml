@@ -9,5 +9,5 @@ employers:
   url: '/prospects'
 blog:
  url: '/blog'
-blog:
- url: '/contact'
+contact:
+ url: '/contact-us'
