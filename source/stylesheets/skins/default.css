@@ -221,13 +221,14 @@ html .label-light {
 html .btn-primary {
 	color: #ffffff;
 	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-	background-color: #0F4460;
-	border-color: #0F4460 #0F4460 #890300;
+	background-color: #38ADB7;
+	border-color: #38ADB7 #38ADB7 #38ADB7;
+	transition:all .5s ease;
 }
 
 html .btn-primary:hover {
-	border-color: #0099e6 #0099e6 #0F4460;
-	background-color: #0099e6;
+	border-color: #0F4460 #0F4460 #0F4460;
+	background-color: #0F4460;
 }
 
 html .btn-primary:active,

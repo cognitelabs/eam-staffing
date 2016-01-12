@@ -24,16 +24,26 @@ h5{
   text-transform:none;
 }
 p{
-  font-size:16px;
+  font-size:18px;
   color:#4A4A4A;
 }
 
 .padding0{
   padding:0;
 }
+.darkBlue{
+  color: #03344E !important;
+}
 .blueBox{
   height:400px;
   background: #0F4460;
+}
+.teal{
+  color: #38ADB7;
+}
+.tealTest{
+  
+  background: #38ADB7 !important;
 }
 .tealBox{
   height:200px;
@@ -63,3 +73,31 @@ p{
   color: #0F4460;
   line-height: 32px;
 }
+li{
+  font-size:18px;
+  line-height:32px !important;
+}
+.partners{
+  height:150px;
+}
+.lightGrey{
+  color:#AFAFAF;
+}
+.contact .fa{
+  color: #38ADB7 !important;
+}
+.leftAlign{
+  text-align:left;
+}
+.ml-ng{
+  margin-left:-10%;
+}
+.bannerInput{
+  background:rgba(0, 0, 0, 0.7);
+  
+}
+@media screen and (max-width:1200px){
+  .bannerText{
+    left: 60px !important;
+    height:auto;
+  }

@@ -1888,9 +1888,9 @@ aside ul.nav-list > li > a {
 
 .slider-container .main-label {
 	color: #0F4460;
-	font-size: 56px;
+	font-size: 48px;
 	line-height: 62px;
-	font-weight: 400;
+	font-weight: 600 !important;
 	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);
 }
 
@@ -1898,7 +1898,7 @@ aside ul.nav-list > li > a {
 	color: #FFF;
 	font-size: 52px;
 	line-height: 52px;
-	font-weight: 400;
+	font-weight: 500;
 	text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.15);
 }
 
@@ -2364,10 +2364,9 @@ section.section-custom-map-2 section.section {
 }
 /* #Footer */
 #footer {
-	background: #000000;
-	border-top: 4px solid #000000;
+	background: #03344E;
 	font-size: 0.9em;
-	margin-top: 50px;
+	
 	padding: 70px 0 0;
 	position: relative;
 	clear: both;
@@ -2519,7 +2518,7 @@ section.section-custom-map-2 section.section {
 }
 
 #footer .contact {
-	list-style: none;
+	list-style-type: none;
 	margin: 0;
 	padding: 0;
 }
@@ -2553,8 +2552,7 @@ section.section-custom-map-2 section.section {
 }
 
 #footer .footer-copyright {
-	background: #000000;
-	border-top: 4px solid #000000;
+	background: #03344E;
 	margin-top: 40px;
 	padding: 30px 0 10px;
 }

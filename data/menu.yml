@@ -1,13 +1,13 @@
-about: 
- url: '#About'
 positions:
- url: '/positions'
+ url: '/positions.html'
 employers:
  recruiting:
-  url: '/recruiting'
+  url: '/recruiting.html'
  prospects:
-  url: '/prospects'
+  url: '/prospects.html'
+about: 
+ url: '#About'
 blog:
  url: '/blog'
 contact:
- url: '/contact-us'
+ url: '/contact-us.html'
