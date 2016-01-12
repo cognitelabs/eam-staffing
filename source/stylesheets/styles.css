@@ -58,7 +58,7 @@ p{
 }
 .center{
   text-align:center;
-  margin:0 auto;
+  margin:auto;
 }
 .box{
   transition:all .5s ease;
@@ -96,8 +96,6 @@ li{
   background:rgba(0, 0, 0, 0.7);
   
 }
-@media screen and (max-width:1200px){
-  .bannerText{
-    left: 60px !important;
-    height:auto;
-  }
+.margin0{
+  margin:0 !important;
+}
