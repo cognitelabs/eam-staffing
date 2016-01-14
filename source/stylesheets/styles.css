@@ -6,6 +6,10 @@
 .heading-primary{
   color:#0F4460 !important;
 }
+h1{
+  font-size: 48px;
+  font-weight:600;
+}
 h2{
   font-size:36px;
   margin-bottom:2%;
@@ -40,6 +44,19 @@ p{
 }
 .teal{
   color: #38ADB7;
+  
+  transition:all .25s ease;
+  text-decoration: none !important;
+}
+.teal:hover{
+  color:#0F4460;
+  text-decoration: none !important;
+  
+}
+a:hover{
+ 
+  text-decoration: none !important;
+  
 }
 .tealTest{
   
