@@ -1144,9 +1144,9 @@ html:not(.sticky-header-active) #header.header-transparent-sticky-deactive .head
 }
 /* Page Header */
 .page-header {
-	background-color: #171717;
+	background-color: #0F4460;
 	border-bottom: 5px solid #CCC;
-	border-top: 5px solid #384045;
+	border-top: 5px solid #03344E;
 	margin: 0 0 35px 0;
 	min-height: 50px;
 	padding: 20px 0;
@@ -1171,7 +1171,7 @@ html:not(.sticky-header-active) #header.header-transparent-sticky-deactive .head
 }
 
 .page-header h1 {
-	border-bottom: 5px solid #CCC;
+	border-bottom: 5px solid #38ADB7;
 	color: #FFF;
 	display: inline-block;
 	font-weight: 200;
@@ -1637,7 +1637,7 @@ html.dark .text-muted {
 }
 
 /* spacement left	*/
-.pr-none {
+.pl-none {
 	padding-left: 0 !important;
 }
 

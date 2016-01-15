@@ -1,3 +1,5 @@
+home:
+  url: '/index.html'
 positions:
  url: '/positions.html'
 employers:
@@ -5,8 +7,6 @@ employers:
   url: '/recruiting.html'
  prospects:
   url: '/prospects.html'
-about: 
- url: '#About'
 blog:
  url: '/blog'
 contact:

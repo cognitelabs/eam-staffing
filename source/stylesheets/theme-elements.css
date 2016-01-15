@@ -499,6 +499,7 @@ ul.nav-pills > li.active > a:hover, ul.nav-pills > li.active > a:focus {
 
 .btn-primary.dropdown-toggle {
 	border-left-color: #bfbfbf;
+	
 }
 
 .btn-primary[disabled] {

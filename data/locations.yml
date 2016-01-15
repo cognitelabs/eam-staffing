@@ -1,13 +1,13 @@
 Headquarters:
- address: 934 Clark Street, Lansing, MI 48906
- phone: 517 862 3251
- latitude: 42.74479
- longitude: -84.53166
+ address: 100 West Big Beaver Rd., Suite 110 Troy, MI 48084
+ phone: 248 688 9805
+ latitude: 42.56332039999999
+ longitude: -83.14930800000002
  image: /images/pin.png
 
 initialmapview:
- latitude: 42.73974
- longitude: -84.6182087
+ latitude: 42.56332039999999
+ longitude: -83.14930800000002
  zoom: 10
 
 #

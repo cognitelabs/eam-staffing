@@ -48,7 +48,7 @@ p{
   transition:all .25s ease;
   text-decoration: none !important;
 }
-.teal:hover{
+a .teal:hover{
   color:#0F4460;
   text-decoration: none !important;
   
@@ -102,6 +102,10 @@ li{
 }
 .contact .fa{
   color: #38ADB7 !important;
+  margin-top:0 !important;
+}
+.contact a:hover{
+  color: #38ADB7 !important;
 }
 .leftAlign{
   text-align:left;
@@ -115,4 +119,17 @@ li{
 }
 .margin0{
   margin:0 !important;
+}
+a.dropdown-toggle{
+  pointer-events: none !important;
+   cursor: default !important;
+}
+.breadcrumb a{
+  color: #38ADB7;
+}
+@media screen and (max-width:991px){
+a.dropdown-toggle{
+  pointer-events: auto !important;
+   cursor: auto !important;
+}
 }
