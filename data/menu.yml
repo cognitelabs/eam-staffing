@@ -8,6 +8,6 @@ employers:
  prospects:
   url: '/prospects.html'
 blog:
- url: '/blog'
+ url: '/blog.html'
 contact:
  url: '/contact-us.html'
