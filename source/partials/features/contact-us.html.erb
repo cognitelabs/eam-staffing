@@ -1,6 +1,6 @@
 <section id="Contact">
-			<div class="container">
-				<div class="row mt-xlg">
+			<div class="container mb-xl">
+				<div class="row ">
 					<div class="col-md-6">
 
 						<div class="alert alert-success hidden" id="contactSuccess">
@@ -11,7 +11,7 @@
 							<strong>Error!</strong> There was an error sending your message.
 						</div>
 
-						<h2 class="mb-sm mt-sm heading-primary"><strong>Contact</strong> Us</h2>
+						<h2 class="mb-sm  heading-primary">Contact Us</h2>
 						<form id="contactForm" action="https://cogemailrouter.herokuapp.com/user/<%= data.site.defaults.cognitelabsemailtoken %>" method="POST">
 							<div class="row">
 								<div class="form-group">
@@ -40,14 +40,13 @@
 							</div>
 						</form>
 					</div>
-					<div class="col-md-6">
+					<div class="col-md-4 col-md-offset-1 mt-xl ">
 
-						<h4 class="heading-primary mt-lg">Get in <strong>Touch</strong></h4>
-						<p>If you're ready to take your business to the next level by accelerating growth, decreasing costs, and growing margins, get in touch. We'd love the opportunity to work with you! </p>
-
+						<h4 class="heading-primary mt-lg">Get in Touch</h4>
+						<p>We will be happy to answer any questions that you may have concerning our service.</p>
 						<hr>
 						<% if data.site.defaults.businessaddress || data.site.defaults.businessphone || data.site.defaults.businessemail %>
-							<h4 class="heading-primary">The <strong>Office</strong></h4>
+							<h4 class="heading-primary">The Office</h4>
 							<ul class="list list-icons list-icons-style-3 mt-xlg">
 								<% if data.site.defaults.businessaddress %>
 									<li><i class="fa fa-map-marker"></i> <strong>Address:</strong> <%= data.site.defaults.businessaddress %></li>
@@ -60,7 +59,7 @@
 								<% end %>
 							</ul>
 
-							<hr>
+							
 						<% end %>
 
 						
