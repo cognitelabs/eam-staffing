@@ -127,9 +127,27 @@ a.dropdown-toggle{
 .breadcrumb a{
   color: #38ADB7;
 }
+.tp-caption {
+
+
+white-space:normal !important;
+}
 @media screen and (max-width:991px){
 a.dropdown-toggle{
   pointer-events: auto !important;
    cursor: auto !important;
+}
+}
+@media only screen and (max-width: 800px)  {
+ .tp-caption {
+font-size: 18px !important;
+line-height:24px !important;
+white-space:normal !important;
+}
+.ml-ng{
+  margin-left:0;
+}
+.main-label{
+  font-size: 28px !important;
 }
 }
