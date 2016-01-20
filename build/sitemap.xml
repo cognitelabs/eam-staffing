@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://www.acme.com/</loc>
+    <loc>http://www.eam-staffing.com/positions.html</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.acme.com/positions.html</loc>
+    <loc>http://www.eam-staffing.com/prospects.html</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.acme.com/prospects.html</loc>
+    <loc>http://www.eam-staffing.com/recruiting.html</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.acme.com/recruiting.html</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.acme.com/sitemap.html</loc>
+    <loc>http://www.eam-staffing.com/sitemap.html</loc>
     <priority>0.5</priority>
   </url>
 </urlset>
