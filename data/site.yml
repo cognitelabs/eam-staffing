@@ -1,5 +1,5 @@
 defaults:
- title: Set the default title in data/site.yml or in the frontmatter.
+ title: EAM Staffing & Recruiting
  description: Set the default description in data/site.yml or in the frontmatter.
  keywords: Set the default keywords in data/site.yml or in the frontmatter.
  author: Set the default author in data/site.yml or in the frontmatter.
@@ -10,7 +10,7 @@ defaults:
  twitterurl: true
  linkedinurl: true
  businessaddress: 100 West Big Beaver Rd., Suite 110 Troy, MI 48084
- businessphone: 248-688-9805
+ businessphone: 248-469-4000
  businessemail: admin@eamstaffing.com
  showlatesttweets: true
  shownewslettersignup: true
@@ -19,4 +19,3 @@ defaults:
  googleanalytics: false
  deployroot: http://www.acme.com
  cognitelabsemailtoken: c7d0c059-42bc-46ee-a1d9-15fd962aa3f2 # email tokens from http://samdobson.github.io/fwdform/ use curl to get a token like this: curl --data "email=t@blah.com" http://emailrouter.cognitelabs.com/register mandrill account is dave@cognitelabs.com and heroku is smithd98@gmail.com
-

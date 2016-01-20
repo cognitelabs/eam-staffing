@@ -184,7 +184,7 @@
             content: opts.html_prepend + content + opts.html_append
           });
 
-          google.maps.event.addListener(gmarker, 'click', function()
+          google.maps.event.addListener(gmarker, 'mouseover', function()
           {
             if (last_infowindow) {
               last_infowindow.close();
