@@ -66,7 +66,7 @@
 
   </head>
 
-  <body class="partials partials_features partials_features_process-step5">
+  <body class="partials partials_features partials_features_contact-form-main">
     <header id="header" data-plugin-options='{"stickyEnabled": true, "stickyEnableOnBoxed": true, "stickyEnableOnMobile": true, "stickyStartAt": 57, "stickySetTop": "-57px", "stickyChangeLogo": true}'>
 	<div class="header-body">
 		<div class="header-container container">
@@ -127,24 +127,42 @@
 		</div>
 	</div>
 </header>
-    <div id="process-step5">
-	<div class="greybg">
-		<div class="container">
-			<div class="row mt-xl mb-xl">
-				<div class="col-xs-9 col-md-6" >
-					<h2 class="heading-primary">Step 5: Onboard</h2>
-					<p>
-					We will provide you with an onboarding plan and assist you with the Sales and Management Training elements as needed.				</p>
+    <section id="contact-form-main">
+	<div class="container">
+		<div class="row mt-xlg">
+			<div class="col-md-6">
+
+				<div class="alert alert-success hidden" id="contactSuccess">
+					<strong>Success!</strong> Your message has been sent to us.
 				</div>
-				<div class="col-md-2"></div>
-				<div class="col-xs-3 col-md-4">
-					<img class=" img-responsive mb-xl" style="margin-top: 50px;" src="images/5onboard.png" alt="" data-appear-animation="fadeInRight">
+
+				<div class="alert alert-danger hidden" id="contactError">
+					<strong>Error!</strong> There was an error sending your message.
 				</div>
 			</div>
+
+			<form id="contactForm" action="https://cogemailrouter.herokuapp.com/user/7ab989e4-b512-4310-8a36-783b998f5b44" method="POST">
+				<div class="row">
+					<div class="form-group">
+						<div class="col-md-6" style="float:none;">
+							<label>Your name *</label>
+							<input type="text" value="" data-msg-required="Please enter your name." maxlength="100" class="form-control" name="name" id="name" required>
+						</div>
+						<div class="col-md-6">
+							<label>Your email address *</label>
+							<input type="email" value="" data-msg-required="Please enter your email address." data-msg-email="Please enter a valid email address." maxlength="100" class="form-control" name="email" id="email" required>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12">
+						<input type="submit" value="Send Message" class="btn btn-primary btn-lg mb-xlg" data-loading-text="Loading...">
+					</div>
+				</div>
+			</form>
 		</div>
 	</div>
-</div>
-
+</section>
     <footer id="footer">
 	<div class="container">
 		<div class="row">
