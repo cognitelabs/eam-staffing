@@ -1,5 +1,5 @@
 defaults:
- title: EAM Staffing & Recruiting
+ title: 'EAM Staffing & Recruiting'
  description: Set the default description in data/site.yml or in the frontmatter.
  keywords: Set the default keywords in data/site.yml or in the frontmatter.
  author: Set the default author in data/site.yml or in the frontmatter.
