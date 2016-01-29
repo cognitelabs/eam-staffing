@@ -1,0 +1,36 @@
+<section id="contact-form-main">
+	<div class="container">
+		<div class="mt-sm">
+			<div class="col-md-6">
+
+				<div class="alert alert-success hidden" id="contactSuccess">
+					<strong>Success!</strong> Your message has been sent to us.
+				</div>
+
+				<div class="alert alert-danger hidden" id="contactError">
+					<strong>Error!</strong> There was an error sending your message.
+				</div>
+			</div>
+
+			<form id="contactForm" action="https://cogemailrouter.herokuapp.com/user/<%= data.site.defaults.cognitelabsemailtoken %>" method="POST">
+				<div class="row">
+					<div class="form-group">
+						<div class="col-md-12 " >
+							<label>Your name *</label>
+							<input type="text" value="" data-msg-required="Please enter your name." maxlength="100" class="form-control darkInput white" name="name" id="name" required>
+						</div>
+						<div class="col-md-12 ">
+							<label>Your email address *</label>
+							<input type="email" value="" data-msg-required="Please enter your email address." data-msg-email="Please enter a valid email address." maxlength="100" class="form-control darkInput white" name="email" id="email" required>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12 ">
+						<input type="submit" value="Send Message" class="btn btn-primary btn-lg mb-xlg" data-loading-text="Loading...">
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</section>

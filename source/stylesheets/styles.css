@@ -113,8 +113,8 @@ li{
 .ml-ng{
   margin-left:-10%;
 }
-.bannerInput{
-  background:rgba(0, 0, 0, 0.7);
+.darkInput{
+  background:rgba(0, 0, 0, 0.6);
   
 }
 .margin0{
@@ -128,26 +128,86 @@ a.dropdown-toggle{
   color: #38ADB7;
 }
 .tp-caption {
-
-
-white-space:normal !important;
+  white-space:normal !important;
+}
+.button-lg{
+  display: block;
+}
+.button-md{
+  display: none;
+}
+.button-sm{
+  display: none;
+}
+#contact-form-main .container{
+  width:100% !important;
+}
+.testimonial p{
+  font-family:Josefin Sans, serif !important;
+  font-style: italic !important;
 }
 @media screen and (max-width:991px){
 a.dropdown-toggle{
   pointer-events: auto !important;
    cursor: auto !important;
 }
+
 }
 @media only screen and (max-width: 800px)  {
- .tp-caption {
-font-size: 18px !important;
+ .bottom-label {
+font-size: 16px !important;
 line-height:24px !important;
 white-space:normal !important;
+}
+ .main-button {
+font-size: 16px !important;
+line-height:24px !important;
+
+}
+.tealBox{
+  height:auto;
+}
+.lightBlueBox{
+  height:auto;
+}
+.mt-xl{
+  margin:0 !important;
+  padding-top:25px;
+}
+.mb-xl{
+  margin:0 !important;
+  padding-bottom:25px;
+}
+.button-lg{
+  display: none;
+}
+.button-md{
+  display: block;
+}
+.button-sm{
+  display: none;
 }
 .ml-ng{
   margin-left:0;
 }
+
+#homeSlider.main-label{
+  font-size: 28px !important;
+}
+}
+@media only screen and (max-width: 540px)  {
+
+.button-lg{
+  display: none;
+}
+.button-md{
+  display: none;
+}
+.button-sm{
+  display: block;
+}
 .main-label{
   font-size: 28px !important;
+  line-height:28px !important;
 }
 }

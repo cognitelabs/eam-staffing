@@ -1,5 +1,5 @@
 User-Agent: *
 Allow: /
-Sitemap: http://www.acme.com/sitemap.xml
+Sitemap: http://www.eam-staffing.com/sitemap.xml
 
 Disallow: /thanks/
