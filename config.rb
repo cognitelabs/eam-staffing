@@ -39,7 +39,7 @@ activate :blog do |blog|
   blog.name = "blog"
   blog.prefix = "blog"
   blog.permalink = "{title}.html"
-  blog.layout = "single_post"
+  blog.layout = "layout_single-post"
 end
 
 activate :directory_indexes
