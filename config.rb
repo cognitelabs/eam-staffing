@@ -34,6 +34,14 @@
 
 # Automatic image dimensions on image_tag helper
 # activate :automatic_image_sizes
+activate :blog do |blog|
+  blog.name = "blog"
+  blog.prefix = "blog"
+  blog.permalink = "{title}.html"
+  blog.layout = "single_post"
+end
+
+activate :directory_indexes
 
 # Reload the browser automatically whenever files change
 configure :development do
