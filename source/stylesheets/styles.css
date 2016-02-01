@@ -142,6 +142,11 @@ a.dropdown-toggle{
 #contact-form-main .container{
   width:100% !important;
 }
+
+#footer .nav-list li :before{
+  display:none;
+  list-style-type:none;
+}
 .testimonial p{
   font-family:Josefin Sans, serif !important;
   font-style: italic !important;
