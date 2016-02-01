@@ -5,8 +5,6 @@ home.form = {
 	"email":"jesse@superwebpros.com"
 }
 
-
-
 casper.test.begin "The homepage is up", (test) ->
 	casper.start home, ->
 		test.assertHttpStatus(200, home + 'is up!')
