@@ -151,6 +151,17 @@ a.dropdown-toggle{
   font-family:Josefin Sans, serif !important;
   font-style: italic !important;
 }
+
+#header__blog-index h2, #header__blog-index p {
+  padding-top: initial;
+  color: #fff;
+}
+
+#header__blog-index {
+  background: #23527c;
+}
+
+
 @media screen and (max-width:991px){
 a.dropdown-toggle{
   pointer-events: auto !important;
