@@ -5,8 +5,8 @@ positions:
 employers:
  recruiting:
   url: '/recruiting'
- prospects:
-  url: '/prospects'
+ prospecting:
+  url: '/prospecting'
 blog:
  url: '/blog'
 contact:
