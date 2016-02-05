@@ -1,14 +1,14 @@
 home:
-  url: '/index.html'
+  url: '/'
 positions:
- url: '/positions.html'
+ url: '/positions'
 employers:
  url: '#'
  recruiting:
-  url: '/recruiting.html'
- prospects:
-  url: '/prospects.html'
+  url: '/recruiting'
+ prospecting:
+  url: '/prospecting'
 blog:
- url: '/blog.html'
+ url: '/blog'
 contact:
- url: '/contact-us.html'
+ url: '/contact-us'
