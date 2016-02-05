@@ -6,10 +6,10 @@
 <nav>
 <ul class="nav nav-pills" id="mainNav">
   <% menu.each do |key, value| %>
-		<li class="dropdown<% if current_page.path == value.url %> active<% end %>">
+		<li class="dropdown<% if current_page.path == value.url %> active<% end %>" id="dropdownOpen">
 			<% hasSubs = is_parent_menu(value) %>
 
-			<a   class=" <% if hasSubs %>dropdown-toggle<% end %>"  href="<%= value.url %>" ><%= key %><% if value.extrahtml %> <%= value.extrahtml%><% end %></a>
+			<a   class=" <% if hasSubs %>dropdown-toggle <% end %>"  href="<%= value.url %>" ><%= key %><% if value.extrahtml %> <%= value.extrahtml%><% end %></a>
 			<% if hasSubs %>
 			 <ul class="dropdown-menu">
 			 	<% value.each do |subkey, subvalue| %>
