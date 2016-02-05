@@ -1862,11 +1862,12 @@ aside ul.nav-list > li > a {
 
 /* Home Slider - Revolution Slider */
 .slider-container {
-	background: #171717;
+	background: #fff;
 	overflow: hidden;
 	padding: 0;
 	position: relative;
 	z-index: 1;
+	height:200px;
 }
 
 .slider-container ul {
@@ -1995,7 +1996,7 @@ aside ul.nav-list > li > a {
 }
 
 .slider {
-	height: 495px;
+	
 	max-height: 495px;
 	position: relative;
 }

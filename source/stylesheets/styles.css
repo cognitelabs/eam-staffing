@@ -151,7 +151,12 @@ a.dropdown-toggle{
   font-family:Josefin Sans, serif !important;
   font-style: italic !important;
 }
-
+.tall{
+  height:250px;
+}
+.block{
+  display:inline-block;
+}
 #header__blog-index h2, #header__blog-index p {
   padding-top: initial;
   color: #fff;
@@ -160,7 +165,9 @@ a.dropdown-toggle{
 #header__blog-index {
   background: #23527c;
 }
-
+#homeSlider{
+  height:200px !important;
+}
 
 @media screen and (max-width:991px){
 a.dropdown-toggle{
@@ -179,6 +186,20 @@ white-space:normal !important;
 font-size: 16px !important;
 line-height:24px !important;
 
+}
+.slider-container {
+	background: #fff;
+	overflow: hidden;
+	padding: 0;
+	position: relative;
+	z-index: 1;
+	height:325px;
+}
+.ml-lg{
+  margin-left:0 !important;
+}
+#homeSlider{
+  height:325px !important;
 }
 .tealBox{
   height:auto;
@@ -226,4 +247,9 @@ line-height:24px !important;
   font-size: 28px !important;
   line-height:28px !important;
 }
+}
+@media only screen and (max-width: 390px)  {
+  .tall{
+    display:none;
+  }
 }
