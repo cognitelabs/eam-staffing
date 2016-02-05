@@ -165,7 +165,7 @@ a.dropdown-toggle{
 #header__blog-index {
   background: #23527c;
 }
-#homeSlider{
+.partners{
   height:200px !important;
 }
 
@@ -198,7 +198,7 @@ line-height:24px !important;
 .ml-lg{
   margin-left:0 !important;
 }
-#homeSlider{
+.partners{
   height:325px !important;
 }
 .tealBox{
