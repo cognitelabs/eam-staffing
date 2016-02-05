@@ -19,7 +19,7 @@ casper.test.begin "The Navigation Menu", (test) ->
 		test.assertSelectorHasText(nav, "positions")
 		test.assertSelectorHasText(nav, "employers")
 		test.assertSelectorHasText(nav, "recruiting")
-		test.assertSelectorHasText(nav, "prospects")
+		test.assertSelectorHasText(nav, "prospecting")
 		test.assertSelectorHasText(nav, "blog")
 		test.assertSelectorHasText(nav, "contact")
 	casper.run ->
@@ -43,12 +43,12 @@ casper.test.begin "Validate 'recruiting' link", (test) ->
 	casper.run ->
 		test.done()
 
-casper.test.begin "Validate 'prospects' link", (test) ->
+casper.test.begin "Validate 'prospecting' link", (test) ->
 	casper.start home, ->
-		this.clickLabel('prospects')
+		this.clickLabel('prospecting')
 	casper.then ->
 		test.assertHttpStatus(200, "The link resolves!")
-		test.assertUrlMatches("/prospects")
+		test.assertUrlMatches("/prospecting")
 	casper.run ->
 		test.done()
 
@@ -90,16 +90,6 @@ casper.test.begin "Validate Prospecting button", (test) ->
 	casper.start home, ->
 		this.click('.lightBlueBox a')
 	casper.then ->
-		test.assertUrlMatches("/prospects")
+		test.assertUrlMatches("/prospecting")
 	casper.run ->
 		test.done()
-
-casper.test.begin "Verify the contact form", (test) ->
-	casper.start home, ->
-	casper.fill('#contactForm', home.form, true)
-	casper.then ->
-		test.assertHttpStatus(200, "The form was sent!")
-		casper.echo(window.location.pathname)
-	casper.run ->
-		test.done()
-
