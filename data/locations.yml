@@ -3,12 +3,24 @@ EAM Staffing & Recruiting:
  phone: 248 688 9805
  latitude: 42.56332039999999
  longitude: -83.14930800000002
+ image: /images/pin.png 
+EAM Staffing & Recruiting:
+ address: 100 Pennsylvania Avenue, Suite 401, Framingham, MA 01701
+ phone: 508 449 3861
+ latitude: 42.299693
+ longitude: -71.480637
+ image: /images/pin.png
+EAM Staffing & Recruiting:
+ address: 745 Atlantic Ave, 10th floor, Boston, MA 02111
+ phone: 508 449 3861
+ latitude: 42.350304
+ longitude: -71.057101
  image: /images/pin.png
 
 initialmapview:
  latitude: 42.56332039999999
  longitude: -83.14930800000002
- zoom: 10
+ zoom: 100
 
 #
 #	#	Map Settings
