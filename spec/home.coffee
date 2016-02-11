@@ -93,3 +93,11 @@ casper.test.begin "Validate Prospecting button", (test) ->
 		test.assertUrlMatches("/prospecting")
 	casper.run ->
 		test.done()
+
+casper.test.begin "Validate Testimonial Slider", (test) ->
+	casper.start home, ->
+		this.click('.owl-dot')
+	casper.then ->
+		test.assertTextExists("Sonitrol Security")
+	casper.run ->
+		test.done()
