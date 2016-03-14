@@ -20,6 +20,12 @@ EAM Staffing & Recruiting:
  latitude: 42.350304
  longitude: -71.057101
  image: /images/pin.png
+EAM Staffing & Recruiting:
+ address: 325 East Grand River, Ste 328, East Lansing, MI 48823
+ phone: 248 688 9805
+ latitude: 42.73461
+ longitude: -84.48029
+ image: /images/pin.png
 
 #
 #	#	Map Settings
