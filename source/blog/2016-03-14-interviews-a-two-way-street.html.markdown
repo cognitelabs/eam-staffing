@@ -1,0 +1,14 @@
+---
+title: Interviews - A Two Way Street
+author: Marc Yesh
+date: 2016-03-14 21:26 UTC
+tags:
+---
+You've researched the company, updated your resume, and went over answers to the most popular interview questions. You know how your past experiences relate with the new opportunity, every example of triumphs and struggles, and even what you're going to wear. It's not uncommon; this is how most people approach an interview. Unfortunately like most people you've only looked at this as a one way street and **forgot that it is also your chance to interview them.**  
+
+Think about the reasons that you are looking for a new opportunity. Is there anything about your current position that you wish you knew before working there? **If you focus on why you’re leaving the last position, you will have a better understanding of what to ask them.** Do you know how their training program is set up and what their expectations of you are as a new employee? Do they value employee input? Is there any substance to the company culture or is it all show? This one is a difficult one to prove, because you have to take the word of the interviewer. However, if you ask to be given a tour of the company, you will be able to get a feel for the environment. These questions are just a few examples that will change with every person. However, every candidate should discover this crucial point: **Get clarity around what the next steps will be.**  
+
+After the interview there are only two outcomes, either a “No” or “Proceed” with clear next steps. Proceeding does not have to mean hired, but it doesn’t mean you’re finished. Try to get a date of when to expect a call with one of those two responses and let them know that “No” is ok. Why? Because it frees you to search for something else.  I realize that some of these questions are difficult to ask, but ask yourself this; **what is the cost of not knowing?**
+
+About Marc:  
+Marc Yesh was born and raised in Southeast Michigan. After high school he went into restaurant management where he helped successfully run several franchises for nearly 8 years. Deciding to return to school as a nontraditional student, he went on to obtain his Bachelor's degree from the University of Michigan graduating with distinction. Shortly after that he was fortunate to join EAM Staffing as a recruiter utilizing his diverse background and experiences. Finding great success early on and proving out his management ability, Marc was offered an opportunity to help establish and head the east coast operation when SaleFish and EAM Staffing formed, SaleFish Search Group. When he is not changing people's lives, Marc can usually be found spending time outdoors either playing sports or just enjoying what nature has to offer. 
