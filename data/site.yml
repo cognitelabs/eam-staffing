@@ -18,6 +18,5 @@ defaults:
  companyname: EAM Staffing & Recruiting
  googleanalytics: UA-72494345-1
  deployroot: "http://eamstaffing.com"
- cognitelabsemailtoken: 5fa7e95a-4ad0-45ff-94a9-37a7523ab88b # email tokens from http://samdobson.github.io/fwdform/ use curl to get a token like this: curl --data "email=t@blah.com" http://emailrouter.cognitelabs.com/register mandrill account is dave@cognitelabs.com and heroku is smithd98@gmail.com
- # Production Token: 5d151d8d-8db9-4370-bbd8-12776f899e23
+ cognitelabsemailtoken: 8ee65a36-ae54-45ee-8b57-5b4bc12650e7 # email tokens from http://samdobson.github.io/fwdform/ use curl to get a token like this: curl --data "email=t@blah.com" http://emailrouter.cognitelabs.com/register mandrill account is dave@cognitelabs.com and heroku is smithd98@gmail.com
 

@@ -42,6 +42,7 @@ activate :blog do |blog|
   blog.layout = "layout_single-post"
 end
 
+page '/404.html', :directory_index => false
 activate :directory_indexes
 
 # Reload the browser automatically whenever files change
