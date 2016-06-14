@@ -17,3 +17,6 @@ partners:
 - partner: "Northwood College"
   partner_logo: "/images/northwood-logo.png"
   partner_alt: "Partner - Northwood College"
+- partner: "Jack T Wolf"
+  partner_logo: "/images/partner_jack-t-wolf.png"
+  partner_alt: "Partner - Jack T Wolf"

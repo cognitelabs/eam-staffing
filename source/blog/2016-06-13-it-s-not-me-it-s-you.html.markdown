@@ -1,7 +1,7 @@
 ---
 title: It's Not Me, It's You
 date: 2016-06-13 18:43 UTC
-author: Jacqui Somes
+author: "Will Berg & Jacqui Somes"
 tags:
 ---
 ## Signs and symptoms your company is not the right fit for you
