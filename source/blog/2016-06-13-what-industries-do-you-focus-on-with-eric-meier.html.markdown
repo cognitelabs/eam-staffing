@@ -1,5 +1,5 @@
 ---
-title: What Industries Do You Focus On - Q & A with Eric Meier
+title: What Industries Do You Focus On - Q & A with Erik Meier
 date: 2016-06-13 18:59 UTC
 author: Jacqui Somes
 tags:
