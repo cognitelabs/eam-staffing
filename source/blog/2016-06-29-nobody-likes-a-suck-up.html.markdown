@@ -1,11 +1,9 @@
 ---
-title: Nobody Likes a Suck-up
+title: Nobody Likes a Suck-up. Don't be a "Yes" Man
 date: 2016-06-29 17:48 UTC
+author: Jacqui Somes
 tags:
 ---
-
-## No One Likes a Suck Up, Don’t Be a “Yes Man”
-
 The worst way to land your dream job is to people please your way in. 
 
 People like doing business with people like them or people they like. This doesn’t mean go into an interview with a bad attitude, but certainly don’t pretend you LOVE doing stuff you hate. Just because you have always wanted to work for a certain company, does not mean you should ignore your gut and “yes” your way in. 
@@ -21,7 +19,9 @@ EAM has a very specific set of core values that we live by, whether it’s in a 
 ## Disqualify Hard, “No” is Ok
 Your job search should have two outcomes, "no" and "yes". 
 
-Define what the components are to disqualify a company as well as qualify. Don’t force a “maybe” gut feeling into a yes. Look for “no’s” and remember to come from abundance rather than scarcity. There are so many potential places to work and you can’t possibly be a perfect match for all of them; certainly not most.
+Define what the components are to disqualify a company as well as qualify. Don’t force a “maybe” gut feeling into a yes. Look for “no’s” and remember to come from abundance rather than scarcity. After all, you have [equal business stature](/blog/have-you-established-equal-business-stature.html)
+
+There are so many potential places to work and you can’t possibly be a perfect match for all of them; certainly not most.
 
 ## Be Original and Authentic
 
