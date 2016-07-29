@@ -1,6 +1,6 @@
 ---
 title: My Dog Ate My Homework
-date: 2016-07-19 21:23 UTC
+date: 2016-07-19 21:29 UTC
 description: Homework designed to help your company prepare and get the best value from using a recruiting firm
 author: Jacqui Somes
 tags:

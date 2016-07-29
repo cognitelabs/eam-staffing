@@ -1,6 +1,6 @@
 ---
 title: 'Q & A with Marc Yesh Part 2: Tips for More Effective Networking'
-date: 2016-07-19 21:29 UTC
+date: 2016-07-19 21:23 UTC
 author: Jacqui Somes
 tags:
 ---
