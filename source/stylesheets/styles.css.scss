@@ -44,22 +44,22 @@ p{
 }
 .teal{
   color: #38ADB7;
-  
+
   transition:all .25s ease;
   text-decoration: none !important;
 }
 a .teal:hover{
   color:#0F4460;
   text-decoration: none !important;
-  
+
 }
 a:hover{
- 
+
   text-decoration: none !important;
-  
+
 }
 .tealTest{
-  
+
   background: #38ADB7 !important;
 }
 .tealBox{
@@ -82,7 +82,7 @@ a:hover{
 }
 .box:hover{
   background:#03344E;
-  
+
 }
 
 .leadText{
@@ -115,7 +115,7 @@ li{
 }
 .darkInput{
   background:rgba(0, 0, 0, 0.6);
-  
+
 }
 .margin0{
   margin:0 !important;
@@ -254,8 +254,17 @@ line-height:24px !important;
   }
 }
 
-#blog-post {
+#blog-post, #blog-posts {
   img {
+		display: inline-block;
     max-width: 100%;
   }
+
+	h2 {
+		padding-top: 0px;
+	}
+
+	h1, h2, h3 {
+		font-weight: 700;
+	}
 }
