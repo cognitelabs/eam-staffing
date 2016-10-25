@@ -16,3 +16,11 @@ gem "tzinfo-data", platforms: [:mswin, :mingw, :jruby]
 
 #Middleman Deploy
 gem 'middleman-deploy', '~> 1.0'
+
+# Middleman Sitemap
+gem 'middleman-search_engine_sitemap'
+
+# Minify html
+gem 'middleman-minify-html'
+
+gem 'middleman-s3_sync', '~>3.3.x'
