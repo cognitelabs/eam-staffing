@@ -59,7 +59,7 @@ activate :s3_sync do |s3_sync|
   s3_sync.path_style                 = true
   s3_sync.acl                        = 'public-read'
   s3_sync.prefix                     = ''
-  # s3_sync.index_document             = 'index.html'
+  s3_sync.index_document             = 'index.html'
   s3_sync.error_document             = '404.html'
 end
 
