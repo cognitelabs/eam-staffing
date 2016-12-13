@@ -5,6 +5,7 @@ activate :blog do |blog|
   blog.prefix = "blog"
   blog.permalink = "{title}.html"
   blog.layout = "layout_single-post"
+  blog.paginate = true
 end
 
 page '/404.html', :directory_index => false
