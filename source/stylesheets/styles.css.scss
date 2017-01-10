@@ -169,6 +169,12 @@ a.dropdown-toggle{
   height:200px !important;
 }
 
+.modal-dialog {
+  background: #fff;
+  padding: 1em 1.5em;
+  border-radius: 4px;
+}
+
 @media screen and (max-width:991px){
 a.dropdown-toggle{
   pointer-events: auto !important;
@@ -230,7 +236,7 @@ line-height:24px !important;
 
 #homeSlider.main-label{
   font-size: 28px !important;
-}
+  }
 }
 @media only screen and (max-width: 540px)  {
 

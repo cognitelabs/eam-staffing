@@ -29,7 +29,9 @@
 	<div class="row mt-xl mb-xl">
 		<div class="col-sm-3"></div>
 	<div class="col-sm-3">
-				<a class=" mt-lg btn btn-primary btn-lg mb-xlg "  href="https://cognitelabs.leadpages.co/leadbox/141fe5073f72a2%3A17d7e942bb46dc/5683257223938048/">Download Our Current Openings</a>
+			<button class="btn btn-primary btn-lg mb-xlg mt-lg" data-toggle="modal" data-target="#jobsModal">
+				Download Our Current Openings
+			</button>
 			</div>
 	<div class="col-sm-3">
 <a class=" mt-lg btn btn-primary btn-lg mb-xlg "  href="/contact-us">Schedule A Call With Us</a>
@@ -37,4 +39,30 @@
 </div>
 	
 </div>
+</div>
+
+<div class="modal fade" id="jobsModal" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="jobsModalLabel">
+	<div class="modal-dialog">
+		<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+			<h4 class="modal-title" id="defaultModalLabel">Almost There...</h4>
+			<p>Just <strong>one</strong> more step!</p>
+		</div>
+		<div class="modal-body">
+			<div class="row">
+				<div class="col-sm-12 col-md-4">
+					<img src="/images/icon__jobs.png" alt="" class="img-responsive pt-lg">
+				</div>
+				<div class="col-sm-12 col-md-8">
+					<p><strong>Are You Ready to Find the Perfect Job For You?</strong></p>
+					<p>Download our FREE list of available positions and see if the one is a good fit for you today!</p>
+					<%= partial "/partials/project/form__open-positions"%>
+				</div>
+			</div>
+		</div>
+		<div class="modal-footer">
+			<button class="btn btn-default" type="button" data-dismiss="modal">Close</button>
+		</div>
+	</div>
+	
 </div>
