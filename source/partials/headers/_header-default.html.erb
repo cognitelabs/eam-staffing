@@ -1,4 +1,4 @@
-<header id="header" data-plugin-options='{"stickyEnabled": true, "stickyEnableOnBoxed": true, "stickyEnableOnMobile": true, "stickyStartAt": 57, "stickySetTop": "-57px", "stickyChangeLogo": true}'>
+<header id="header" data-plugin-options='{"stickyEnabled": false, "stickyEnableOnBoxed": false, "stickyEnableOnMobile": true, "stickyStartAt": 57, "stickySetTop": "-57px", "stickyChangeLogo": false}'>
 	<div class="header-body">
 		<div class="header-container container">
 			<div class="header-row">
@@ -6,7 +6,7 @@
 					<div class="header-logo">
 						<a href="/">
 							<% if data.site.defaults.logourl %>							
-							<img alt="<%= data.site.defaults.companyname %>" data-sticky-width="150" data-sticky-height="" data-sticky-top="33" src="<%= data.site.defaults.logourl %>" class="logo">
+							<img alt="<%= data.site.defaults.companyname %>" data-sticky-width="300" data-sticky-height="" data-sticky-top="50" src="<%= data.site.defaults.logourl %>" class="logo">
 							<% else %>
 								<span style="height:32px; display:inline-block; margin-bottom: 24px; margin-right: 24px; margin-top: 24px;" data-sticky-width="82" data-sticky-height="40" data-sticky-top="33"> <%= data.site.defaults.companyname %></span>
 							<% end %>

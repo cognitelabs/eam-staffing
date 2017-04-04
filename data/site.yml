@@ -14,7 +14,7 @@ defaults:
  businessemail: admin@eamstaffing.com
  showlatesttweets: true
  shownewslettersignup: true
- logourl: /images/logos/eam_staffing_logo.png
+ logourl: /images/logos/eam_staffing_logo--2017.jpg
  companyname: EAM Staffing & Recruiting
  googleanalytics: UA-72494345-1
  deployroot: "http://eamstaffing.com"
