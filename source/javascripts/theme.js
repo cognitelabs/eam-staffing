@@ -2905,11 +2905,11 @@ window.theme = {};
 					}
 
 					// Force Browser Repaint
-					self.browserRepaint();
+					// self.browserRepaint();
 					
-					setTimeout(function() {
-						self.browserRepaint();
-					}, 100);
+					// setTimeout(function() {
+					// 	self.browserRepaint();
+					// }, 100);
 
 					$.event.trigger({
 						type: 'stickyHeader.deactivate'
